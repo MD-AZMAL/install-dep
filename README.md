@@ -1,8 +1,14 @@
 # install-dep
 Install dependencies for IOTA benchmark tool
 
-```shell
+
+
+```
+git clone https://github.com/MD-AZMAL/install-dep.git
+cd install-dep
 chmod +x install_dep.sh verify_dep.sh
+./install_dep.sh
+./verify_dep.sh
 ```
 
 Run install_dep.sh to install the dependencies
